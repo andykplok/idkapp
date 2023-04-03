@@ -12,4 +12,5 @@ class MainActivity : AppCompatActivity() {
 
     // TODO:
     // eat ass yum yum
+    // ya ilana spits but ilana105 swallows
 }
